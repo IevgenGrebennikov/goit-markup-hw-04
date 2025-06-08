@@ -93,7 +93,7 @@ padding: 24px 0;
 {
 color: #2e2f42;
 }
-.first
+.header-link .first
 {
   position: relative;
   color: #404bbf;
@@ -107,7 +107,7 @@ color: #2e2f42;
     padding-top: 24px; 
    padding-bottom: 24px;
 }
-.first::after {
+.header-link .first::after {
   content: '';
   position: absolute;
   left: 0;
