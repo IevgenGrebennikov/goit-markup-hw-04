@@ -95,8 +95,9 @@ color: #2e2f42;
 }
 .first
 {
-    position: relative;
+  position: relative;
   color: #404bbf;
+
  
   font-size: 16px;
     font-weight: 500;
@@ -106,6 +107,17 @@ color: #2e2f42;
     padding-top: 24px; 
    padding-bottom: 24px;
 }
+.first::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background-color: #404bbf;
+  border-radius: 1px;
+}
+
 .header-link:hover,
 .header-link:focus {
   color: #404bbf;
