@@ -459,3 +459,7 @@ max-width: 264px;
   margin-bottom: 16px;
 
 }
+.footer-logo-part{
+  display: flex;
+  gap: 16px;
+}
