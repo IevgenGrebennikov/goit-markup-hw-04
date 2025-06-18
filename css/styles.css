@@ -463,3 +463,22 @@ max-width: 264px;
   display: flex;
   gap: 16px;
 }
+.footer-item-icon{
+  width: 40px;
+  height: 40px;
+}
+.footer-link-icon{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4d5ae5;
+  
+}
+.footer-link-icon:hover ,.footer-link-icon:focus{
+  background-color: #31d0aa;
+}
+.footer-icon{
+  fill: #f4f4fd;
