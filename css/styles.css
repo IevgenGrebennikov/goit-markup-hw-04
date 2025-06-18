@@ -93,7 +93,7 @@ padding: 24px 0;
 {
 color: #2e2f42;
 }
-.header-link .first
+.header-navigation-item .first
 {
   position: relative;
   color: #404bbf;
@@ -107,7 +107,7 @@ color: #2e2f42;
     padding-top: 24px; 
    padding-bottom: 24px;
 }
-.header-link .first::after {
+.dehheader-navigation-item .first::after {
   content: '';
   position: absolute;
   left: 0;
