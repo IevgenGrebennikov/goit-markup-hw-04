@@ -101,7 +101,7 @@ color: #2e2f42;
     padding-top: 24px; 
    padding-bottom: 24px;
 }
- .header-navigation-item:first-child::after {
+ .header-link::after {
   content: '';
   position: absolute;
   left: 0;
