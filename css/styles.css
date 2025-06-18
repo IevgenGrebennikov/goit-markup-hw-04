@@ -457,5 +457,8 @@ max-width: 264px;
   letter-spacing: 0.02em;
   color:#FFFFFF;
   margin-bottom: 16px;
-  
+
+}
+.container-media .team-list-icons li.team-item-icon{
+  gap: 16px;
 }
