@@ -475,7 +475,7 @@ letter-spacing: 0.02em;
 color: #F4F4FD;
 max-width: 264px;
 }
-.container{
+.container-footer{
   display: flex;
   align-items: baseline;
 }
